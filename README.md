@@ -11,7 +11,8 @@ pip install -r requirements.txt
 ## Structure of the repository:
 
 Simulation: apply DAC on a generated dataset
-Real_Data: apply DAC on your own dataset
+
+Real_Data: apply DAC on a real dataset we provide or on your own dataset
 
 
 ## About the algorithm
