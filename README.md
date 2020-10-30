@@ -1,6 +1,7 @@
 # Data Aggregation with Clustering (DAC)
 
-Companion Github repository to [Data Aggregation and Demand Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3411653)
+Companion Github repository to Data Aggregation and Demand Prediction
+
 
 
 ## Install the dependencies
